@@ -1,0 +1,33 @@
+
+---
+
+## 2️⃣ **.gitignore**
+
+```gitignore
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Node modules (if you use JS tooling in the future)
+node_modules/
+
+# VSCode, JetBrains IDEs
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Build output (optional for future tooling)
+dist/
+build/
+
+# Environment variables (if any)
+.env
